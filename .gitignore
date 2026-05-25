@@ -1,0 +1,30 @@
+# Python backend
+backend/venv/
+backend/.venv/
+backend/__pycache__/
+backend/uploads/
+backend/.env
+*.pyc
+
+# ML models (large — share separately or use Git LFS)
+backend/*.pt
+backend/*.pkl
+backend/*.onnx
+
+# Flutter app (firstly/)
+firstly/.dart_tool/
+firstly/.flutter-plugins
+firstly/.flutter-plugins-dependencies
+firstly/.pub-cache/
+firstly/.pub/
+firstly/build/
+firstly/.idea/
+firstly/*.iml
+
+# OS / editor
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+!.vscode/launch.json

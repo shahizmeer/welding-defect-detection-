@@ -1,0 +1,501 @@
+Student ID,Course Type,Assignments Score (%),Lab Completion (%),Project-Based Learning Score (%),Innovation Index (0-100),Entrepreneurship Engagement (0-100),AI Classification Label,Startup Participation,Industry Collaboration (Hours),AI-Powered Recommendation
+S101,Hybrid,59,52,87,49,35,Low Performer,Yes,55,Basic Embedded Systems
+S102,Hardware,68,80,83,91,68,Low Performer,No,50,Basic Embedded Systems
+S103,Hybrid,81,89,61,61,76,Low Performer,No,25,Basic Embedded Systems
+S104,Hybrid,50,86,68,83,92,Low Performer,Yes,48,Basic Embedded Systems
+S105,Hardware,54,85,86,61,30,Low Performer,Yes,15,Basic Embedded Systems
+S106,Hardware,94,73,93,6,46,Moderate Performer,No,72,RTOS & Kernel Programming
+S107,Hybrid,53,80,98,74,54,Low Performer,No,5,Basic Embedded Systems
+S108,Software,65,55,66,83,79,Low Performer,No,67,Basic Embedded Systems
+S109,Hybrid,73,51,59,79,61,Low Performer,No,28,Basic Embedded Systems
+S110,Hybrid,65,69,98,3,29,Low Performer,No,17,Basic Embedded Systems
+S111,Hybrid,51,77,96,5,54,Low Performer,No,15,Basic Embedded Systems
+S112,Hybrid,98,60,61,57,15,Low Performer,No,55,Basic Embedded Systems
+S113,Hardware,77,53,65,21,11,Low Performer,No,21,Basic Embedded Systems
+S114,Hybrid,81,64,73,25,16,Low Performer,Yes,28,Basic Embedded Systems
+S115,Software,76,55,68,2,15,Low Performer,No,23,Basic Embedded Systems
+S116,Hardware,69,98,57,40,11,Low Performer,No,41,Basic Embedded Systems
+S117,Software,73,79,80,59,7,Moderate Performer,No,12,RTOS & Kernel Programming
+S118,Software,61,87,70,13,83,Low Performer,No,32,Basic Embedded Systems
+S119,Software,99,51,66,74,2,Low Performer,No,9,Basic Embedded Systems
+S120,Software,84,64,72,81,15,Low Performer,Yes,21,Basic Embedded Systems
+S121,Hardware,82,60,86,11,29,Low Performer,No,40,Basic Embedded Systems
+S122,Hardware,82,57,65,86,22,Low Performer,No,23,Basic Embedded Systems
+S123,Software,92,75,55,11,91,Low Performer,Yes,68,Basic Embedded Systems
+S124,Software,86,94,57,12,4,Low Performer,Yes,15,Basic Embedded Systems
+S125,Hardware,61,93,74,24,83,Low Performer,No,58,Basic Embedded Systems
+S126,Hardware,52,54,67,44,64,Low Performer,Yes,49,Basic Embedded Systems
+S127,Hardware,50,55,74,18,29,Low Performer,No,51,Basic Embedded Systems
+S128,Hybrid,82,75,61,54,20,Low Performer,Yes,16,Basic Embedded Systems
+S129,Hybrid,89,53,64,99,83,Low Performer,No,25,Basic Embedded Systems
+S130,Hybrid,59,68,75,44,69,Low Performer,Yes,15,Basic Embedded Systems
+S131,Software,92,69,90,7,21,Low Performer,No,9,Basic Embedded Systems
+S132,Hybrid,93,82,94,92,81,Moderate Performer,No,60,RTOS & Kernel Programming
+S133,Software,78,69,75,52,71,Low Performer,No,24,Basic Embedded Systems
+S134,Software,62,98,96,54,31,Low Performer,Yes,45,Basic Embedded Systems
+S135,Hybrid,61,61,81,31,32,Low Performer,No,50,Basic Embedded Systems
+S136,Software,80,96,59,50,15,Low Performer,No,16,Basic Embedded Systems
+S137,Hybrid,95,50,65,43,75,Low Performer,No,74,Basic Embedded Systems
+S138,Hybrid,51,75,56,81,37,Low Performer,Yes,21,Basic Embedded Systems
+S139,Hardware,99,63,66,69,97,Low Performer,Yes,23,Basic Embedded Systems
+S140,Hybrid,84,87,72,17,13,Moderate Performer,No,30,RTOS & Kernel Programming
+S141,Hardware,72,86,75,82,35,Moderate Performer,No,52,RTOS & Kernel Programming
+S142,Hybrid,66,60,70,21,96,Low Performer,No,56,Basic Embedded Systems
+S143,Hybrid,75,85,71,36,22,Moderate Performer,No,74,RTOS & Kernel Programming
+S144,Hardware,57,62,56,95,65,Low Performer,No,59,Basic Embedded Systems
+S145,Hardware,78,92,63,55,84,Low Performer,Yes,79,Basic Embedded Systems
+S146,Hybrid,75,52,64,58,1,Low Performer,No,37,Basic Embedded Systems
+S147,Software,59,82,56,2,90,Low Performer,Yes,66,Basic Embedded Systems
+S148,Hardware,75,55,58,27,72,Low Performer,No,27,Basic Embedded Systems
+S149,Software,83,99,97,73,64,Moderate Performer,No,19,RTOS & Kernel Programming
+S150,Software,90,59,57,34,74,Low Performer,No,31,Basic Embedded Systems
+S151,Software,56,54,99,60,66,Low Performer,Yes,79,Basic Embedded Systems
+S152,Hardware,53,72,72,92,51,Low Performer,Yes,68,Basic Embedded Systems
+S153,Software,99,59,78,53,61,Low Performer,Yes,55,Basic Embedded Systems
+S154,Hardware,94,93,67,62,22,Low Performer,Yes,57,Basic Embedded Systems
+S155,Software,60,51,80,78,25,Low Performer,Yes,55,Basic Embedded Systems
+S156,Hybrid,78,62,79,96,67,Low Performer,No,51,Basic Embedded Systems
+S157,Hybrid,85,89,88,6,81,High Performer - Technical,Yes,8,Embedded Security
+S158,Hardware,74,51,84,75,54,Low Performer,Yes,11,Basic Embedded Systems
+S159,Hybrid,70,69,67,48,5,Low Performer,No,39,Basic Embedded Systems
+S160,Hybrid,85,50,91,93,34,Low Performer,No,52,Basic Embedded Systems
+S161,Software,59,86,88,84,21,Low Performer,No,77,Basic Embedded Systems
+S162,Hardware,86,58,66,30,42,Low Performer,Yes,76,Basic Embedded Systems
+S163,Software,58,66,63,57,14,Low Performer,No,49,Basic Embedded Systems
+S164,Software,73,58,80,60,85,Low Performer,Yes,76,Basic Embedded Systems
+S165,Software,84,60,73,23,59,Low Performer,Yes,23,Basic Embedded Systems
+S166,Software,98,64,84,19,11,Low Performer,No,67,Basic Embedded Systems
+S167,Software,84,73,93,36,48,Moderate Performer,Yes,42,RTOS & Kernel Programming
+S168,Software,97,87,94,3,41,High Performer - Technical,No,71,Embedded Security
+S169,Software,85,84,83,91,37,Moderate Performer,No,63,RTOS & Kernel Programming
+S170,Hardware,67,79,52,19,81,Low Performer,No,73,Basic Embedded Systems
+S171,Hybrid,98,80,86,59,44,Moderate Performer,No,17,RTOS & Kernel Programming
+S172,Software,88,98,92,23,34,High Performer - Technical,Yes,51,Embedded Security
+S173,Software,81,54,89,49,29,Low Performer,No,65,Basic Embedded Systems
+S174,Software,73,93,75,48,87,Moderate Performer,No,35,RTOS & Kernel Programming
+S175,Software,72,99,72,50,29,Moderate Performer,No,26,RTOS & Kernel Programming
+S176,Software,81,63,93,95,77,Low Performer,No,47,Basic Embedded Systems
+S177,Software,86,60,88,35,5,Low Performer,Yes,71,Basic Embedded Systems
+S178,Hybrid,61,58,64,97,66,Low Performer,No,58,Basic Embedded Systems
+S179,Hybrid,98,83,98,99,79,Moderate Performer,Yes,14,RTOS & Kernel Programming
+S180,Software,62,61,53,65,6,Low Performer,No,46,Basic Embedded Systems
+S181,Hybrid,72,84,78,78,51,Moderate Performer,No,68,RTOS & Kernel Programming
+S182,Hardware,74,84,71,33,13,Moderate Performer,Yes,25,RTOS & Kernel Programming
+S183,Software,84,50,74,35,72,Low Performer,No,70,Basic Embedded Systems
+S184,Hardware,90,89,62,5,14,Low Performer,Yes,45,Basic Embedded Systems
+S185,Hardware,79,71,67,38,20,Low Performer,No,28,Basic Embedded Systems
+S186,Software,66,78,82,41,34,Low Performer,No,39,Basic Embedded Systems
+S187,Hybrid,98,57,65,57,65,Low Performer,No,60,Basic Embedded Systems
+S188,Hardware,69,60,94,11,90,Low Performer,No,34,Basic Embedded Systems
+S189,Software,97,90,91,2,1,High Performer - Technical,No,61,Embedded Security
+S190,Hardware,74,86,93,17,34,Moderate Performer,Yes,51,RTOS & Kernel Programming
+S191,Hardware,71,63,51,39,81,Low Performer,Yes,39,Basic Embedded Systems
+S192,Hardware,62,79,84,20,77,Low Performer,Yes,23,Basic Embedded Systems
+S193,Hardware,68,84,91,14,19,Low Performer,Yes,12,Basic Embedded Systems
+S194,Hybrid,98,70,83,96,81,Moderate Performer,No,30,RTOS & Kernel Programming
+S195,Hardware,85,86,79,98,9,Moderate Performer,No,75,RTOS & Kernel Programming
+S196,Hardware,61,54,62,25,24,Low Performer,No,34,Basic Embedded Systems
+S197,Hardware,90,68,62,7,65,Low Performer,Yes,11,Basic Embedded Systems
+S198,Hybrid,68,63,67,99,24,Low Performer,No,71,Basic Embedded Systems
+S199,Hardware,61,75,81,93,53,Low Performer,No,69,Basic Embedded Systems
+S200,Hardware,58,53,81,86,32,Low Performer,Yes,40,Basic Embedded Systems
+S201,Hybrid,56,74,84,41,35,Low Performer,No,29,Basic Embedded Systems
+S202,Hybrid,77,94,88,43,94,Moderate Performer,No,41,RTOS & Kernel Programming
+S203,Hybrid,63,91,95,13,13,Low Performer,Yes,5,Basic Embedded Systems
+S204,Hardware,80,74,78,77,64,Moderate Performer,No,19,RTOS & Kernel Programming
+S205,Hybrid,68,67,98,1,79,Low Performer,No,41,Basic Embedded Systems
+S206,Hybrid,96,89,78,36,53,Moderate Performer,Yes,17,RTOS & Kernel Programming
+S207,Hardware,65,57,93,68,51,Low Performer,No,12,Basic Embedded Systems
+S208,Hybrid,54,88,65,37,2,Low Performer,No,9,Basic Embedded Systems
+S209,Hardware,84,89,93,40,98,Moderate Performer,No,64,RTOS & Kernel Programming
+S210,Software,61,63,96,61,40,Low Performer,No,77,Basic Embedded Systems
+S211,Hybrid,74,81,59,59,5,Low Performer,No,5,Basic Embedded Systems
+S212,Software,70,87,79,13,24,Moderate Performer,No,40,RTOS & Kernel Programming
+S213,Hardware,85,82,74,88,12,Moderate Performer,No,39,RTOS & Kernel Programming
+S214,Hybrid,72,72,88,83,97,Moderate Performer,Yes,70,RTOS & Kernel Programming
+S215,Hardware,65,64,69,1,7,Low Performer,No,67,Basic Embedded Systems
+S216,Software,88,82,54,69,20,Low Performer,No,27,Basic Embedded Systems
+S217,Hardware,94,74,50,16,97,Low Performer,No,13,Basic Embedded Systems
+S218,Hybrid,91,66,79,88,67,Low Performer,Yes,38,Basic Embedded Systems
+S219,Hybrid,88,82,98,27,24,Moderate Performer,No,50,RTOS & Kernel Programming
+S220,Software,63,96,52,65,78,Low Performer,Yes,8,Basic Embedded Systems
+S221,Hardware,80,51,94,34,67,Low Performer,Yes,34,Basic Embedded Systems
+S222,Hybrid,54,63,63,4,44,Low Performer,Yes,79,Basic Embedded Systems
+S223,Software,84,89,79,64,59,Moderate Performer,No,76,RTOS & Kernel Programming
+S224,Hybrid,72,89,99,39,11,Moderate Performer,No,7,RTOS & Kernel Programming
+S225,Hybrid,78,88,53,75,31,Low Performer,No,18,Basic Embedded Systems
+S226,Hardware,92,55,67,55,95,Low Performer,Yes,64,Basic Embedded Systems
+S227,Hybrid,60,55,86,35,91,Low Performer,No,49,Basic Embedded Systems
+S228,Hardware,67,52,74,44,12,Low Performer,No,38,Basic Embedded Systems
+S229,Hybrid,96,56,97,22,30,Low Performer,No,49,Basic Embedded Systems
+S230,Software,61,57,50,46,77,Low Performer,Yes,65,Basic Embedded Systems
+S231,Hybrid,58,91,95,30,19,Low Performer,No,20,Basic Embedded Systems
+S232,Hardware,59,64,64,10,17,Low Performer,No,70,Basic Embedded Systems
+S233,Hardware,93,96,58,9,92,Low Performer,No,44,Basic Embedded Systems
+S234,Software,66,78,64,66,59,Low Performer,Yes,21,Basic Embedded Systems
+S235,Hybrid,87,82,98,13,62,Moderate Performer,Yes,38,RTOS & Kernel Programming
+S236,Hybrid,56,79,73,79,5,Low Performer,No,20,Basic Embedded Systems
+S237,Software,95,88,53,73,31,Low Performer,No,64,Basic Embedded Systems
+S238,Hybrid,62,76,61,92,92,Low Performer,No,70,Basic Embedded Systems
+S239,Hybrid,89,85,86,9,42,High Performer - Technical,No,70,Embedded Security
+S240,Hardware,91,78,86,75,1,Moderate Performer,Yes,17,RTOS & Kernel Programming
+S241,Hybrid,58,87,92,93,59,Low Performer,No,60,Basic Embedded Systems
+S242,Hybrid,99,82,55,0,22,Low Performer,No,35,Basic Embedded Systems
+S243,Software,76,86,88,4,82,Moderate Performer,No,38,RTOS & Kernel Programming
+S244,Software,51,76,95,19,30,Low Performer,No,43,Basic Embedded Systems
+S245,Hardware,54,82,73,7,4,Low Performer,No,71,Basic Embedded Systems
+S246,Hybrid,78,53,60,42,82,Low Performer,Yes,12,Basic Embedded Systems
+S247,Hybrid,86,71,62,75,33,Low Performer,No,59,Basic Embedded Systems
+S248,Hybrid,87,51,83,0,9,Low Performer,Yes,31,Basic Embedded Systems
+S249,Hardware,68,59,74,56,88,Low Performer,No,57,Basic Embedded Systems
+S250,Hardware,57,54,56,63,1,Low Performer,No,43,Basic Embedded Systems
+S251,Software,97,59,53,83,10,Low Performer,No,69,Basic Embedded Systems
+S252,Hardware,94,82,57,27,49,Low Performer,No,21,Basic Embedded Systems
+S253,Hybrid,50,87,69,36,30,Low Performer,No,34,Basic Embedded Systems
+S254,Hybrid,71,62,78,46,55,Low Performer,No,57,Basic Embedded Systems
+S255,Hardware,66,80,94,75,78,Low Performer,No,17,Basic Embedded Systems
+S256,Hybrid,56,96,95,36,72,Low Performer,Yes,25,Basic Embedded Systems
+S257,Hybrid,74,85,59,48,86,Low Performer,No,23,Basic Embedded Systems
+S258,Hardware,94,94,92,43,82,High Performer - Technical,No,57,FPGA & ASIC Design
+S259,Hardware,53,73,83,55,8,Low Performer,No,23,Basic Embedded Systems
+S260,Hybrid,85,64,75,27,98,Low Performer,No,61,Basic Embedded Systems
+S261,Hybrid,55,78,90,78,20,Low Performer,No,29,Basic Embedded Systems
+S262,Hybrid,80,57,98,5,72,Low Performer,Yes,35,Basic Embedded Systems
+S263,Software,68,54,52,60,27,Low Performer,No,59,Basic Embedded Systems
+S264,Software,93,78,55,19,61,Low Performer,Yes,27,Basic Embedded Systems
+S265,Software,88,96,54,77,6,Low Performer,Yes,36,Basic Embedded Systems
+S266,Hardware,76,53,54,1,79,Low Performer,Yes,66,Basic Embedded Systems
+S267,Software,59,61,96,72,15,Low Performer,No,78,Basic Embedded Systems
+S268,Hardware,75,94,72,36,96,Moderate Performer,No,14,RTOS & Kernel Programming
+S269,Hardware,68,51,98,19,3,Low Performer,Yes,76,Basic Embedded Systems
+S270,Software,88,76,58,25,3,Low Performer,No,58,Basic Embedded Systems
+S271,Software,52,80,84,28,39,Low Performer,No,56,Basic Embedded Systems
+S272,Software,94,85,69,0,16,Low Performer,Yes,24,Basic Embedded Systems
+S273,Hybrid,62,85,98,34,51,Low Performer,No,36,Basic Embedded Systems
+S274,Software,99,75,91,69,92,Moderate Performer,No,18,RTOS & Kernel Programming
+S275,Hybrid,77,92,84,58,51,Moderate Performer,No,54,RTOS & Kernel Programming
+S276,Hardware,69,76,99,68,35,Low Performer,No,32,Basic Embedded Systems
+S277,Hybrid,77,54,67,32,37,Low Performer,No,57,Basic Embedded Systems
+S278,Software,57,69,66,50,49,Low Performer,No,28,Basic Embedded Systems
+S279,Hardware,90,60,73,77,62,Low Performer,No,26,Basic Embedded Systems
+S280,Hardware,88,59,52,11,62,Low Performer,No,34,Basic Embedded Systems
+S281,Hardware,50,89,81,19,61,Low Performer,Yes,67,Basic Embedded Systems
+S282,Hybrid,52,87,84,52,98,Low Performer,No,8,Basic Embedded Systems
+S283,Software,62,55,87,87,6,Low Performer,No,63,Basic Embedded Systems
+S284,Hardware,77,57,62,42,26,Low Performer,Yes,12,Basic Embedded Systems
+S285,Hardware,98,72,96,97,91,Moderate Performer,Yes,16,RTOS & Kernel Programming
+S286,Hardware,74,96,74,88,85,Moderate Performer,No,35,RTOS & Kernel Programming
+S287,Hybrid,82,75,58,49,13,Low Performer,No,38,Basic Embedded Systems
+S288,Hybrid,87,95,53,28,70,Low Performer,No,79,Basic Embedded Systems
+S289,Software,55,92,63,56,85,Low Performer,No,53,Basic Embedded Systems
+S290,Hybrid,93,61,86,38,4,Low Performer,Yes,61,Basic Embedded Systems
+S291,Hardware,94,75,83,94,54,Moderate Performer,No,30,RTOS & Kernel Programming
+S292,Software,81,62,60,55,1,Low Performer,Yes,22,Basic Embedded Systems
+S293,Hardware,94,89,90,42,61,High Performer - Technical,No,42,FPGA & ASIC Design
+S294,Hardware,96,67,52,49,90,Low Performer,No,54,Basic Embedded Systems
+S295,Hybrid,70,74,77,22,20,Moderate Performer,No,12,RTOS & Kernel Programming
+S296,Software,65,82,78,43,78,Low Performer,No,45,Basic Embedded Systems
+S297,Hybrid,70,96,58,37,20,Low Performer,No,10,Basic Embedded Systems
+S298,Hybrid,60,89,52,83,9,Low Performer,No,73,Basic Embedded Systems
+S299,Software,86,92,74,22,86,Moderate Performer,No,48,RTOS & Kernel Programming
+S300,Hardware,85,61,83,44,57,Low Performer,No,68,Basic Embedded Systems
+S301,Hardware,84,93,61,51,38,Low Performer,No,33,Basic Embedded Systems
+S302,Software,68,85,91,79,4,Low Performer,No,32,Basic Embedded Systems
+S303,Hardware,69,97,58,49,64,Low Performer,No,15,Basic Embedded Systems
+S304,Software,67,53,64,7,12,Low Performer,No,69,Basic Embedded Systems
+S305,Software,96,54,89,84,84,Low Performer,Yes,23,Basic Embedded Systems
+S306,Hybrid,90,86,74,0,89,Moderate Performer,No,13,RTOS & Kernel Programming
+S307,Software,98,57,54,7,84,Low Performer,No,31,Basic Embedded Systems
+S308,Hybrid,63,91,60,28,52,Low Performer,Yes,38,Basic Embedded Systems
+S309,Hardware,64,98,83,95,81,Low Performer,Yes,48,Basic Embedded Systems
+S310,Hardware,80,77,73,4,44,Moderate Performer,Yes,72,RTOS & Kernel Programming
+S311,Hardware,50,80,64,85,31,Low Performer,No,19,Basic Embedded Systems
+S312,Hardware,52,58,87,46,35,Low Performer,No,55,Basic Embedded Systems
+S313,Hybrid,65,78,57,33,80,Low Performer,No,17,Basic Embedded Systems
+S314,Hardware,72,63,54,64,98,Low Performer,No,53,Basic Embedded Systems
+S315,Software,60,89,97,54,59,Low Performer,No,74,Basic Embedded Systems
+S316,Software,61,90,75,89,10,Low Performer,No,60,Basic Embedded Systems
+S317,Software,59,71,67,42,62,Low Performer,No,55,Basic Embedded Systems
+S318,Hybrid,81,60,55,73,20,Low Performer,No,41,Basic Embedded Systems
+S319,Hardware,65,72,86,29,51,Low Performer,No,21,Basic Embedded Systems
+S320,Hardware,57,50,97,81,54,Low Performer,No,62,Basic Embedded Systems
+S321,Hardware,87,95,62,16,25,Low Performer,Yes,33,Basic Embedded Systems
+S322,Hybrid,61,86,77,25,67,Low Performer,No,37,Basic Embedded Systems
+S323,Software,73,70,54,7,33,Low Performer,No,64,Basic Embedded Systems
+S324,Software,77,75,62,46,51,Low Performer,No,59,Basic Embedded Systems
+S325,Hardware,57,95,66,75,81,Low Performer,Yes,14,Basic Embedded Systems
+S326,Software,77,85,99,90,98,Moderate Performer,Yes,51,RTOS & Kernel Programming
+S327,Software,85,72,89,71,92,Moderate Performer,No,27,RTOS & Kernel Programming
+S328,Hybrid,75,50,94,88,51,Low Performer,Yes,25,Basic Embedded Systems
+S329,Hybrid,57,89,81,45,28,Low Performer,No,17,Basic Embedded Systems
+S330,Hybrid,99,64,78,67,37,Low Performer,Yes,37,Basic Embedded Systems
+S331,Hybrid,77,70,52,32,41,Low Performer,No,28,Basic Embedded Systems
+S332,Hardware,77,96,89,0,20,Moderate Performer,No,15,RTOS & Kernel Programming
+S333,Hybrid,86,58,83,18,41,Low Performer,No,21,Basic Embedded Systems
+S334,Software,90,58,89,30,12,Low Performer,No,72,Basic Embedded Systems
+S335,Hardware,85,59,76,79,63,Low Performer,Yes,51,Basic Embedded Systems
+S336,Software,76,75,62,13,16,Low Performer,Yes,29,Basic Embedded Systems
+S337,Software,66,90,94,52,8,Low Performer,No,77,Basic Embedded Systems
+S338,Software,58,84,82,47,40,Low Performer,No,25,Basic Embedded Systems
+S339,Hybrid,82,74,55,68,0,Low Performer,No,16,Basic Embedded Systems
+S340,Hybrid,69,75,73,89,1,Low Performer,No,41,Basic Embedded Systems
+S341,Hardware,62,60,68,61,59,Low Performer,No,46,Basic Embedded Systems
+S342,Hardware,77,87,65,91,47,Low Performer,No,21,Basic Embedded Systems
+S343,Hybrid,97,51,89,65,28,Low Performer,No,52,Basic Embedded Systems
+S344,Software,78,56,77,63,96,Low Performer,Yes,32,Basic Embedded Systems
+S345,Hardware,62,67,82,69,9,Low Performer,No,45,Basic Embedded Systems
+S346,Hybrid,95,76,97,62,57,Moderate Performer,No,51,RTOS & Kernel Programming
+S347,Hybrid,84,83,90,72,59,Moderate Performer,No,22,RTOS & Kernel Programming
+S348,Hybrid,55,76,62,32,20,Low Performer,Yes,75,Basic Embedded Systems
+S349,Software,67,66,92,40,27,Low Performer,No,17,Basic Embedded Systems
+S350,Hybrid,54,92,94,88,74,Low Performer,No,17,Basic Embedded Systems
+S351,Hybrid,96,93,74,47,33,Moderate Performer,No,35,RTOS & Kernel Programming
+S352,Hybrid,74,73,91,12,7,Moderate Performer,No,6,RTOS & Kernel Programming
+S353,Hybrid,51,74,85,72,58,Low Performer,No,20,Basic Embedded Systems
+S354,Hardware,59,56,76,76,85,Low Performer,No,13,Basic Embedded Systems
+S355,Hardware,79,55,87,30,71,Low Performer,Yes,77,Basic Embedded Systems
+S356,Hybrid,99,73,56,74,48,Low Performer,No,42,Basic Embedded Systems
+S357,Software,94,82,54,67,78,Low Performer,Yes,79,Basic Embedded Systems
+S358,Hardware,54,98,92,97,16,Low Performer,No,58,Basic Embedded Systems
+S359,Hybrid,82,78,94,3,59,Moderate Performer,No,60,RTOS & Kernel Programming
+S360,Hardware,50,92,80,18,86,Low Performer,Yes,49,Basic Embedded Systems
+S361,Hardware,67,71,72,69,87,Low Performer,No,38,Basic Embedded Systems
+S362,Software,81,75,91,97,44,Moderate Performer,Yes,13,RTOS & Kernel Programming
+S363,Hybrid,96,77,59,81,82,Low Performer,No,12,Basic Embedded Systems
+S364,Hybrid,98,99,81,12,68,Moderate Performer,No,11,RTOS & Kernel Programming
+S365,Software,60,70,92,22,31,Low Performer,No,40,Basic Embedded Systems
+S366,Software,70,98,79,82,43,Moderate Performer,Yes,22,RTOS & Kernel Programming
+S367,Hybrid,75,56,88,74,64,Low Performer,No,7,Basic Embedded Systems
+S368,Hybrid,74,66,80,0,86,Low Performer,No,32,Basic Embedded Systems
+S369,Software,71,69,67,87,7,Low Performer,No,74,Basic Embedded Systems
+S370,Hardware,76,90,85,53,76,Moderate Performer,No,48,RTOS & Kernel Programming
+S371,Hardware,98,98,51,70,71,Low Performer,Yes,25,Basic Embedded Systems
+S372,Software,62,69,63,88,86,Low Performer,No,32,Basic Embedded Systems
+S373,Hardware,82,71,62,84,42,Low Performer,Yes,58,Basic Embedded Systems
+S374,Software,83,77,78,14,0,Moderate Performer,No,58,RTOS & Kernel Programming
+S375,Hardware,90,89,61,64,50,Low Performer,No,69,Basic Embedded Systems
+S376,Hardware,84,98,88,75,23,Moderate Performer,Yes,25,RTOS & Kernel Programming
+S377,Hybrid,50,56,51,70,98,Low Performer,Yes,17,Basic Embedded Systems
+S378,Hybrid,70,50,81,14,23,Low Performer,Yes,61,Basic Embedded Systems
+S379,Hardware,97,81,62,20,16,Low Performer,No,53,Basic Embedded Systems
+S380,Hardware,55,62,95,18,4,Low Performer,No,58,Basic Embedded Systems
+S381,Hybrid,77,79,76,59,19,Moderate Performer,No,14,RTOS & Kernel Programming
+S382,Hybrid,66,72,98,92,20,Low Performer,Yes,57,Basic Embedded Systems
+S383,Hybrid,54,68,90,88,57,Low Performer,Yes,48,Basic Embedded Systems
+S384,Software,80,81,66,32,30,Low Performer,No,51,Basic Embedded Systems
+S385,Hardware,54,79,89,48,99,Low Performer,Yes,57,Basic Embedded Systems
+S386,Hybrid,87,78,80,95,10,Moderate Performer,No,78,RTOS & Kernel Programming
+S387,Hardware,52,98,83,34,51,Low Performer,No,50,Basic Embedded Systems
+S388,Software,72,94,73,43,14,Moderate Performer,No,17,RTOS & Kernel Programming
+S389,Software,86,78,94,89,82,Moderate Performer,No,41,RTOS & Kernel Programming
+S390,Hybrid,86,79,84,10,6,Moderate Performer,No,28,RTOS & Kernel Programming
+S391,Software,59,65,97,98,27,Low Performer,Yes,6,Basic Embedded Systems
+S392,Hardware,59,89,55,71,50,Low Performer,Yes,18,Basic Embedded Systems
+S393,Hybrid,68,68,68,77,57,Low Performer,Yes,14,Basic Embedded Systems
+S394,Hardware,66,67,79,73,4,Low Performer,No,39,Basic Embedded Systems
+S395,Hardware,70,50,56,65,4,Low Performer,Yes,29,Basic Embedded Systems
+S396,Software,63,63,59,45,93,Low Performer,No,7,Basic Embedded Systems
+S397,Software,58,96,90,8,95,Low Performer,No,21,Basic Embedded Systems
+S398,Software,95,99,81,2,7,Moderate Performer,No,16,RTOS & Kernel Programming
+S399,Software,50,51,83,84,63,Low Performer,No,58,Basic Embedded Systems
+S400,Software,94,77,77,25,9,Moderate Performer,Yes,28,RTOS & Kernel Programming
+S401,Hybrid,62,98,64,71,37,Low Performer,No,33,Basic Embedded Systems
+S402,Hardware,53,99,79,47,95,Low Performer,No,47,Basic Embedded Systems
+S403,Hardware,50,79,86,65,91,Low Performer,Yes,29,Basic Embedded Systems
+S404,Hardware,98,87,78,69,80,Moderate Performer,Yes,64,RTOS & Kernel Programming
+S405,Hardware,89,53,71,27,94,Low Performer,No,69,Basic Embedded Systems
+S406,Software,81,50,53,92,7,Low Performer,No,32,Basic Embedded Systems
+S407,Hardware,83,57,69,25,24,Low Performer,No,20,Basic Embedded Systems
+S408,Hybrid,77,78,81,24,72,Moderate Performer,No,51,RTOS & Kernel Programming
+S409,Hybrid,80,88,85,11,65,Moderate Performer,No,62,RTOS & Kernel Programming
+S410,Hardware,57,52,99,4,78,Low Performer,No,31,Basic Embedded Systems
+S411,Hardware,88,81,53,97,49,Low Performer,No,57,Basic Embedded Systems
+S412,Hybrid,75,59,76,47,66,Low Performer,No,46,Basic Embedded Systems
+S413,Hybrid,83,59,66,36,48,Low Performer,No,63,Basic Embedded Systems
+S414,Software,52,68,61,78,35,Low Performer,No,51,Basic Embedded Systems
+S415,Hybrid,99,95,71,43,67,Moderate Performer,No,38,RTOS & Kernel Programming
+S416,Software,61,83,66,99,77,Low Performer,No,41,Basic Embedded Systems
+S417,Software,50,82,59,14,40,Low Performer,No,10,Basic Embedded Systems
+S418,Software,93,72,50,42,88,Low Performer,No,11,Basic Embedded Systems
+S419,Software,54,77,71,47,61,Low Performer,No,29,Basic Embedded Systems
+S420,Software,79,81,75,86,9,Moderate Performer,No,37,RTOS & Kernel Programming
+S421,Hardware,79,99,67,69,20,Low Performer,No,59,Basic Embedded Systems
+S422,Hybrid,66,56,99,45,35,Low Performer,Yes,62,Basic Embedded Systems
+S423,Software,97,78,63,42,11,Low Performer,No,11,Basic Embedded Systems
+S424,Hybrid,96,57,96,20,90,Low Performer,Yes,61,Basic Embedded Systems
+S425,Hybrid,72,50,78,22,1,Low Performer,No,16,Basic Embedded Systems
+S426,Software,64,52,61,79,12,Low Performer,No,20,Basic Embedded Systems
+S427,Hardware,86,73,85,46,52,Moderate Performer,No,47,RTOS & Kernel Programming
+S428,Software,70,72,84,14,31,Moderate Performer,No,11,RTOS & Kernel Programming
+S429,Hardware,63,57,61,24,94,Low Performer,No,55,Basic Embedded Systems
+S430,Hybrid,51,96,56,35,15,Low Performer,No,77,Basic Embedded Systems
+S431,Hardware,60,86,78,74,31,Low Performer,No,36,Basic Embedded Systems
+S432,Hardware,88,52,60,50,31,Low Performer,No,79,Basic Embedded Systems
+S433,Hardware,87,82,82,14,97,Moderate Performer,Yes,12,RTOS & Kernel Programming
+S434,Hybrid,83,77,55,67,10,Low Performer,Yes,76,Basic Embedded Systems
+S435,Hybrid,87,96,96,20,9,High Performer - Technical,No,49,Embedded Security
+S436,Hardware,99,57,64,12,14,Low Performer,No,63,Basic Embedded Systems
+S437,Hardware,83,83,81,85,16,Moderate Performer,Yes,8,RTOS & Kernel Programming
+S438,Software,67,84,60,18,39,Low Performer,Yes,71,Basic Embedded Systems
+S439,Hardware,79,81,72,33,17,Moderate Performer,Yes,33,RTOS & Kernel Programming
+S440,Software,64,73,75,77,54,Low Performer,No,33,Basic Embedded Systems
+S441,Hardware,76,63,83,67,72,Low Performer,No,32,Basic Embedded Systems
+S442,Software,83,81,95,51,24,Moderate Performer,No,48,RTOS & Kernel Programming
+S443,Hybrid,87,95,83,26,58,Moderate Performer,Yes,8,RTOS & Kernel Programming
+S444,Hardware,82,92,78,28,77,Moderate Performer,No,13,RTOS & Kernel Programming
+S445,Hardware,73,65,53,27,88,Low Performer,Yes,9,Basic Embedded Systems
+S446,Hardware,64,53,66,34,21,Low Performer,Yes,60,Basic Embedded Systems
+S447,Hardware,79,86,84,7,29,Moderate Performer,No,54,RTOS & Kernel Programming
+S448,Software,91,70,62,15,83,Low Performer,Yes,79,Basic Embedded Systems
+S449,Hardware,66,63,90,35,84,Low Performer,Yes,19,Basic Embedded Systems
+S450,Hybrid,54,80,88,29,43,Low Performer,Yes,36,Basic Embedded Systems
+S451,Hybrid,78,97,64,17,31,Low Performer,Yes,32,Basic Embedded Systems
+S452,Hardware,53,67,78,1,50,Low Performer,Yes,26,Basic Embedded Systems
+S453,Hybrid,59,56,78,48,45,Low Performer,No,21,Basic Embedded Systems
+S454,Hardware,66,59,60,76,20,Low Performer,No,63,Basic Embedded Systems
+S455,Hardware,59,56,81,3,98,Low Performer,No,75,Basic Embedded Systems
+S456,Hybrid,66,82,51,89,31,Low Performer,No,61,Basic Embedded Systems
+S457,Hardware,69,72,96,88,93,Low Performer,Yes,30,Basic Embedded Systems
+S458,Hybrid,73,70,63,93,38,Low Performer,No,29,Basic Embedded Systems
+S459,Software,54,68,69,74,11,Low Performer,No,14,Basic Embedded Systems
+S460,Hardware,83,97,71,6,46,Moderate Performer,Yes,49,RTOS & Kernel Programming
+S461,Software,55,68,60,94,17,Low Performer,No,15,Basic Embedded Systems
+S462,Hybrid,51,85,76,73,20,Low Performer,Yes,57,Basic Embedded Systems
+S463,Software,62,78,52,38,12,Low Performer,No,76,Basic Embedded Systems
+S464,Software,92,67,66,12,20,Low Performer,No,72,Basic Embedded Systems
+S465,Hybrid,92,51,93,30,7,Low Performer,No,32,Basic Embedded Systems
+S466,Software,97,50,77,70,45,Low Performer,No,79,Basic Embedded Systems
+S467,Software,60,96,78,62,6,Low Performer,No,69,Basic Embedded Systems
+S468,Hybrid,96,54,70,55,22,Low Performer,No,53,Basic Embedded Systems
+S469,Software,72,69,96,41,95,Low Performer,Yes,51,Basic Embedded Systems
+S470,Hybrid,65,60,65,60,74,Low Performer,Yes,56,Basic Embedded Systems
+S471,Software,80,91,86,41,85,Moderate Performer,No,58,RTOS & Kernel Programming
+S472,Hybrid,60,51,69,55,21,Low Performer,No,64,Basic Embedded Systems
+S473,Hybrid,65,52,55,35,88,Low Performer,No,61,Basic Embedded Systems
+S474,Software,57,72,68,83,21,Low Performer,No,51,Basic Embedded Systems
+S475,Software,53,61,54,67,91,Low Performer,No,35,Basic Embedded Systems
+S476,Software,89,69,52,6,28,Low Performer,No,50,Basic Embedded Systems
+S477,Hardware,53,54,50,53,12,Low Performer,No,30,Basic Embedded Systems
+S478,Hardware,74,86,87,0,81,Moderate Performer,No,9,RTOS & Kernel Programming
+S479,Hardware,52,87,64,43,1,Low Performer,No,56,Basic Embedded Systems
+S480,Hybrid,81,79,83,44,28,Moderate Performer,No,79,RTOS & Kernel Programming
+S481,Software,52,58,84,46,84,Low Performer,Yes,58,Basic Embedded Systems
+S482,Hybrid,76,83,98,12,78,Moderate Performer,No,37,RTOS & Kernel Programming
+S483,Hardware,78,93,74,21,51,Moderate Performer,Yes,54,RTOS & Kernel Programming
+S484,Software,81,84,73,20,26,Moderate Performer,Yes,42,RTOS & Kernel Programming
+S485,Hybrid,99,71,61,85,49,Low Performer,Yes,31,Basic Embedded Systems
+S486,Software,68,93,67,91,94,Low Performer,No,19,Basic Embedded Systems
+S487,Hybrid,70,73,64,8,78,Low Performer,No,65,Basic Embedded Systems
+S488,Software,54,66,93,25,22,Low Performer,Yes,25,Basic Embedded Systems
+S489,Hardware,67,59,65,8,87,Low Performer,No,50,Basic Embedded Systems
+S490,Hardware,77,79,76,14,43,Moderate Performer,No,73,RTOS & Kernel Programming
+S491,Software,91,95,57,9,76,Low Performer,No,10,Basic Embedded Systems
+S492,Hybrid,71,72,95,87,21,Moderate Performer,Yes,42,RTOS & Kernel Programming
+S493,Hardware,70,81,74,41,42,Moderate Performer,No,66,RTOS & Kernel Programming
+S494,Hardware,55,66,66,71,36,Low Performer,No,66,Basic Embedded Systems
+S495,Hardware,50,99,78,23,60,Low Performer,Yes,78,Basic Embedded Systems
+S496,Software,54,66,57,79,96,Low Performer,Yes,50,Basic Embedded Systems
+S497,Software,90,63,64,48,55,Low Performer,No,17,Basic Embedded Systems
+S498,Hybrid,61,58,76,25,2,Low Performer,No,7,Basic Embedded Systems
+S499,Hybrid,75,89,95,90,62,Moderate Performer,No,10,RTOS & Kernel Programming
+S500,Hybrid,95,51,99,36,18,Low Performer,No,12,Basic Embedded Systems
+S501,Software,83,94,56,67,22,Low Performer,No,48,Basic Embedded Systems
+S502,Software,98,74,52,49,28,Low Performer,No,37,Basic Embedded Systems
+S503,Hybrid,63,88,78,23,29,Low Performer,Yes,79,Basic Embedded Systems
+S504,Hybrid,75,58,93,18,38,Low Performer,No,54,Basic Embedded Systems
+S505,Software,94,71,73,99,24,Moderate Performer,No,15,RTOS & Kernel Programming
+S506,Hybrid,76,92,52,59,7,Low Performer,No,32,Basic Embedded Systems
+S507,Hardware,58,95,69,38,57,Low Performer,No,74,Basic Embedded Systems
+S508,Software,75,53,95,73,15,Low Performer,No,45,Basic Embedded Systems
+S509,Hybrid,96,75,64,88,71,Low Performer,Yes,20,Basic Embedded Systems
+S510,Software,71,78,74,17,0,Moderate Performer,No,72,RTOS & Kernel Programming
+S511,Hardware,96,94,79,18,4,Moderate Performer,Yes,52,RTOS & Kernel Programming
+S512,Software,79,83,63,35,2,Low Performer,No,60,Basic Embedded Systems
+S513,Software,92,72,56,73,64,Low Performer,Yes,68,Basic Embedded Systems
+S514,Software,97,86,66,96,3,Low Performer,Yes,63,Basic Embedded Systems
+S515,Software,66,60,93,54,98,Low Performer,No,66,Basic Embedded Systems
+S516,Hardware,75,55,69,68,95,Low Performer,Yes,15,Basic Embedded Systems
+S517,Software,85,67,85,46,63,Low Performer,No,22,Basic Embedded Systems
+S518,Software,50,70,58,48,97,Low Performer,No,23,Basic Embedded Systems
+S519,Hybrid,57,91,87,98,88,Low Performer,Yes,59,Basic Embedded Systems
+S520,Software,98,85,97,97,9,High Performer - Technical,Yes,30,Embedded Security
+S521,Hybrid,84,90,71,32,20,Moderate Performer,No,10,RTOS & Kernel Programming
+S522,Hardware,64,87,51,20,45,Low Performer,No,8,Basic Embedded Systems
+S523,Hardware,96,83,73,80,90,Moderate Performer,No,33,RTOS & Kernel Programming
+S524,Hardware,71,66,57,21,26,Low Performer,No,63,Basic Embedded Systems
+S525,Hardware,63,86,60,47,65,Low Performer,No,21,Basic Embedded Systems
+S526,Hybrid,75,74,62,36,40,Low Performer,No,47,Basic Embedded Systems
+S527,Software,77,87,66,14,12,Low Performer,No,70,Basic Embedded Systems
+S528,Hardware,72,61,57,34,8,Low Performer,No,38,Basic Embedded Systems
+S529,Software,63,72,70,91,35,Low Performer,Yes,12,Basic Embedded Systems
+S530,Hybrid,73,91,67,70,85,Low Performer,No,17,Basic Embedded Systems
+S531,Hybrid,51,71,79,31,89,Low Performer,No,12,Basic Embedded Systems
+S532,Hybrid,94,70,67,10,57,Low Performer,No,69,Basic Embedded Systems
+S533,Hardware,75,76,95,9,53,Moderate Performer,No,47,RTOS & Kernel Programming
+S534,Software,63,80,96,72,11,Low Performer,No,43,Basic Embedded Systems
+S535,Software,56,55,80,77,80,Low Performer,No,63,Basic Embedded Systems
+S536,Software,52,76,87,76,77,Low Performer,No,48,Basic Embedded Systems
+S537,Hybrid,96,89,81,56,13,Moderate Performer,No,13,RTOS & Kernel Programming
+S538,Hardware,72,83,60,24,33,Low Performer,No,41,Basic Embedded Systems
+S539,Hybrid,95,61,94,1,52,Low Performer,No,78,Basic Embedded Systems
+S540,Hybrid,92,94,74,63,19,Moderate Performer,No,40,RTOS & Kernel Programming
+S541,Software,96,56,82,34,74,Low Performer,No,32,Basic Embedded Systems
+S542,Hybrid,94,59,87,6,15,Low Performer,No,46,Basic Embedded Systems
+S543,Software,67,94,90,84,94,Low Performer,No,47,Basic Embedded Systems
+S544,Hardware,87,66,57,17,69,Low Performer,No,46,Basic Embedded Systems
+S545,Software,84,75,60,66,55,Low Performer,Yes,70,Basic Embedded Systems
+S546,Hardware,64,70,71,41,82,Low Performer,No,59,Basic Embedded Systems
+S547,Software,74,77,73,38,57,Moderate Performer,Yes,76,RTOS & Kernel Programming
+S548,Hybrid,86,95,90,40,3,High Performer - Technical,No,52,Embedded Security
+S549,Hybrid,77,51,66,74,3,Low Performer,No,26,Basic Embedded Systems
+S550,Hardware,59,92,61,23,19,Low Performer,Yes,31,Basic Embedded Systems
+S551,Hardware,88,50,95,59,9,Low Performer,Yes,71,Basic Embedded Systems
+S552,Hardware,66,85,81,45,23,Low Performer,No,17,Basic Embedded Systems
+S553,Software,88,75,64,18,98,Low Performer,No,49,Basic Embedded Systems
+S554,Software,71,78,65,67,25,Low Performer,No,14,Basic Embedded Systems
+S555,Hardware,75,70,71,89,36,Moderate Performer,Yes,13,RTOS & Kernel Programming
+S556,Hybrid,93,60,77,41,84,Low Performer,No,58,Basic Embedded Systems
+S557,Software,74,89,69,31,53,Low Performer,No,31,Basic Embedded Systems
+S558,Software,66,60,82,38,20,Low Performer,No,38,Basic Embedded Systems
+S559,Software,62,85,59,35,73,Low Performer,No,5,Basic Embedded Systems
+S560,Hardware,69,98,89,96,37,Low Performer,No,36,Basic Embedded Systems
+S561,Hardware,74,88,81,35,45,Moderate Performer,Yes,75,RTOS & Kernel Programming
+S562,Hardware,53,89,99,2,3,Low Performer,No,71,Basic Embedded Systems
+S563,Hardware,59,84,82,72,59,Low Performer,No,24,Basic Embedded Systems
+S564,Hardware,52,83,51,7,56,Low Performer,No,39,Basic Embedded Systems
+S565,Hybrid,90,96,82,96,44,Moderate Performer,Yes,21,RTOS & Kernel Programming
+S566,Hybrid,94,73,82,69,19,Moderate Performer,No,22,RTOS & Kernel Programming
+S567,Hardware,67,71,90,40,16,Low Performer,Yes,49,Basic Embedded Systems
+S568,Software,96,54,62,67,70,Low Performer,No,57,Basic Embedded Systems
+S569,Hardware,85,82,79,12,3,Moderate Performer,No,72,RTOS & Kernel Programming
+S570,Hybrid,96,85,82,48,92,Moderate Performer,No,69,RTOS & Kernel Programming
+S571,Hybrid,71,96,62,59,13,Low Performer,Yes,5,Basic Embedded Systems
+S572,Software,83,69,75,1,2,Low Performer,Yes,62,Basic Embedded Systems
+S573,Hybrid,96,68,71,59,87,Low Performer,No,30,Basic Embedded Systems
+S574,Hardware,57,84,88,4,79,Low Performer,Yes,24,Basic Embedded Systems
+S575,Software,89,92,51,43,57,Low Performer,Yes,14,Basic Embedded Systems
+S576,Hardware,98,66,87,26,54,Low Performer,No,63,Basic Embedded Systems
+S577,Hardware,93,94,88,31,3,High Performer - Technical,No,79,FPGA & ASIC Design
+S578,Software,68,92,75,20,23,Low Performer,Yes,45,Basic Embedded Systems
+S579,Hardware,91,83,95,7,33,Moderate Performer,No,9,RTOS & Kernel Programming
+S580,Hybrid,90,58,99,71,29,Low Performer,Yes,69,Basic Embedded Systems
+S581,Hardware,86,75,64,49,81,Low Performer,No,21,Basic Embedded Systems
+S582,Software,55,51,83,66,18,Low Performer,No,26,Basic Embedded Systems
+S583,Software,75,58,91,43,30,Low Performer,No,45,Basic Embedded Systems
+S584,Software,83,58,93,57,59,Low Performer,No,72,Basic Embedded Systems
+S585,Hardware,94,89,98,2,59,High Performer - Technical,No,73,FPGA & ASIC Design
+S586,Software,55,66,89,85,18,Low Performer,No,15,Basic Embedded Systems
+S587,Software,86,50,60,69,48,Low Performer,Yes,60,Basic Embedded Systems
+S588,Hardware,82,74,52,1,62,Low Performer,No,55,Basic Embedded Systems
+S589,Hybrid,71,92,55,86,82,Low Performer,No,25,Basic Embedded Systems
+S590,Hardware,70,89,58,43,21,Low Performer,No,30,Basic Embedded Systems
+S591,Software,55,91,55,1,23,Low Performer,No,23,Basic Embedded Systems
+S592,Software,55,74,58,80,75,Low Performer,No,64,Basic Embedded Systems
+S593,Hardware,97,88,88,34,29,High Performer - Technical,Yes,75,FPGA & ASIC Design
+S594,Hybrid,53,84,80,97,57,Low Performer,No,51,Basic Embedded Systems
+S595,Software,79,52,81,86,30,Low Performer,No,75,Basic Embedded Systems
+S596,Software,60,99,90,29,99,Low Performer,No,30,Basic Embedded Systems
+S597,Software,79,86,99,7,63,Moderate Performer,No,44,RTOS & Kernel Programming
+S598,Hardware,80,93,61,21,18,Low Performer,No,9,Basic Embedded Systems
+S599,Software,73,93,57,43,47,Low Performer,No,25,Basic Embedded Systems
+S600,Hybrid,58,79,57,57,44,Low Performer,Yes,8,Basic Embedded Systems

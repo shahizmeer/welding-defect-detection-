@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529664366719",
+    "project_id": "weldai-b9b25",
+    "storage_bucket": "weldai-b9b25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529664366719:android:0e5b61c05189e1a4d5074a",
+        "android_client_info": {
+          "package_name": "com.example.firstly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQnyX5Jc4hlWO3aJQUur2aml8P6T3bCT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
