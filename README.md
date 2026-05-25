@@ -1,4 +1,4 @@
-# WeldAI
+# welding-defect-detection-
 
 Flutter app (`firstly/`) + Python Flask API (`backend/`) for weld detection and score prediction.
 
